@@ -1,0 +1,6 @@
+*.pyc
+*.tmp
+build
+dist
+MANIFEST
+barcher/__pycache__
